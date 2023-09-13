@@ -1,0 +1,12 @@
+[ 2023-09-13 12:31:04,362] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-13 12:31:04,371] 187 werkzeug - INFO -  * Debugger PIN: 442-185-002
+[ 2023-09-13 12:31:11,475] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:31:11,742] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:11] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-13 12:31:22,607] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:31:22,645] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:22] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-13 12:31:24,967] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-13 12:31:25,411] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:31:25,411] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:31:25,432] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:31:25,455] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:31:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:32:13,212] 187 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\application.py', reloading

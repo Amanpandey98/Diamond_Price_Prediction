@@ -1,0 +1,28 @@
+[ 2023-09-13 12:58:19,209] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-13 12:58:19,211] 187 werkzeug - INFO -  * Debugger PIN: 442-185-002
+[ 2023-09-13 12:58:28,272] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:58:28] "GET / HTTP/1.1" 200 -
+[ 2023-09-13 12:58:36,259] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:58:36] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-13 12:58:44,521] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:58:45,187] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:58:45] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-13 12:58:58,531] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:58:58,553] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:58:58] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-13 12:59:00,778] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-13 12:59:01,078] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:01,078] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:01,147] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:01,159] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:16,281] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-13 12:59:16,312] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:16,315] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:16,328] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:16,342] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:19,895] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:19] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-13 12:59:19,916] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:19,918] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:19,933] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:19,947] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:59:26,502] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:59:26,533] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:59:26] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-13 13:00:05,357] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 13:00:05,388] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 13:00:05] "POST /predict HTTP/1.1" 200 -
+[ 2023-09-13 13:02:21,312] 187 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\application.py', reloading

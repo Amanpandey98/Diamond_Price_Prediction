@@ -1,0 +1,3 @@
+[ 2023-09-13 12:31:00,228] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-13 12:31:00,230] 187 werkzeug - INFO -  * Debugger PIN: 442-185-002
+[ 2023-09-13 12:31:01,575] 187 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\application.py', reloading

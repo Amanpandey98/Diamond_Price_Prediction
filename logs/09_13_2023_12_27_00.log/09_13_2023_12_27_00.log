@@ -1,0 +1,19 @@
+[ 2023-09-13 12:27:02,675] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-13 12:27:02,678] 187 werkzeug - INFO -  * Debugger PIN: 442-185-002
+[ 2023-09-13 12:27:17,613] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:27:17] "GET / HTTP/1.1" 200 -
+[ 2023-09-13 12:27:17,699] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:27:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-09-13 12:27:57,402] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:27:57] "GET / HTTP/1.1" 200 -
+[ 2023-09-13 12:28:03,929] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:28:03] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-13 12:28:46,631] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:28:46,648] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:28:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-13 12:28:47,272] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:28:47] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-09-13 12:28:47,275] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:28:47] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-09-13 12:28:47,331] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:28:47] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-09-13 12:28:47,354] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:28:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:29:27,215] 65 root - INFO - Dataframe gathered
+[ 2023-09-13 12:29:27,237] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:29:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-13 12:29:27,273] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:29:27,278] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:29:27,324] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:29:27,347] 187 werkzeug - INFO - 127.0.0.1 - - [13/Sep/2023 12:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-13 12:30:53,141] 187 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\application.py', reloading
